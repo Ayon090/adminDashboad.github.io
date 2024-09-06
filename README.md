@@ -1,2 +1,2 @@
 # adminDashboad.github.io
-This is an admin panel with diffrent features 
+This is an admin panel with different features 
